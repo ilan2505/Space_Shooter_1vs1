@@ -5,5 +5,5 @@ https://www.youtube.com/watch?v=LdYhD9XEPi8
 
 # The look pf the game :
 <p align="center">
-  <img align="center" width=70% src = "https://user-images.githubusercontent.com/55143087/152003432-90b3eedf-3a42-4dab-83d3-9fe1432458b7.png"/>
+  <img align="center" width=50% src = "https://user-images.githubusercontent.com/55143087/152003432-90b3eedf-3a42-4dab-83d3-9fe1432458b7.png"/>
 </p>
