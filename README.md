@@ -1,3 +1,6 @@
+# Author
+Ilan Meyer Souffir
+
 # Space_Shooter_1vs1
 This is the game Space Shooter but 1 vs 1, in Python.
 In class we learned our first game in Python with Pygame, and the teacher took the exemple from youtube :
